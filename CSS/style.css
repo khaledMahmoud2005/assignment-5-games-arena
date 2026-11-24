@@ -91,7 +91,7 @@ h4,
 
 .hero-section {
     min-height: 100vh;
-    background: linear-gradient(90deg, rgba(11, 14, 19, 0.95) 0%, rgba(11, 14, 19, 0.85) 55%, rgba(11, 14, 19, 0.92) 100%), url('hero-bg.jpg') center/cover no-repeat fixed;
+    background: linear-gradient(90deg, rgba(11, 14, 19, 0.95) 0%, rgba(11, 14, 19, 0.85) 55%, rgba(11, 14, 19, 0.92) 100%), url('../Images/hero-bg.jpg') center/cover no-repeat fixed;
 }
 
 .hero-title {
